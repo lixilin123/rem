@@ -1,5 +1,5 @@
 # rem
-> [中文文档] (https://github.com/lixilin123/rem/README-zh.md)
+> [中文文档](https://github.com/lixilin123/rem/blob/master/README-zh.md)
 ### 1 Introduction
 This is a github repository for root font settings when rem layout.
 ### 2. Usage
